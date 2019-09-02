@@ -5,3 +5,7 @@ apidocs
 src/main/java/nl/quintor/solitaire/DevMain.java
 build
 *.zip
+.classpath
+.project
+.settings
+bin
